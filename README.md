@@ -36,3 +36,6 @@ TL;DR
 
 ## Algorithm 
 Implementation using Convolution Neural Network  
+
+## Dependencies
+Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn  
